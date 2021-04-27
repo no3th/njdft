@@ -24,7 +24,7 @@ The [master](https://github.com/no3th/njdft/tree/master) filetree is the root of
 The [media](https://github.com/no3th/njdft/tree/ft.media) filetree follows a layout suitable for storing entertainment and media alone.
 
 ## Home
-The [home](https://github.com/no3th/njdft/tree/ft.media) filetreee closely resembles the XDG specifications, and fits into the home directory of each user on a system.
+The [home](https://github.com/no3th/njdft/tree/ft.home) filetreee closely resembles the XDG specifications, and fits into the home directory of each user on a system.
 
 
 ## Modifications
