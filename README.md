@@ -5,7 +5,7 @@ The NJD FileTree (NJDFT) is a system that aims to combine concepts from PARA and
 Utilizes a unique identifier for every relevant folder using an XX.XX notation, dividing each relevant category into ten sections each following the SI decimal notation.
 
 ## The r/DataCurator Filetree
-A filesystemthat developed out of a need to establish a simple standardized rule for organizing digital data.
+A filesystem that developed out of a need to establish a simple standardized rule for organizing digital data.
 
 
 # Our Goals
